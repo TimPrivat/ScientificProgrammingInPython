@@ -1,0 +1,79 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Neutral:
+•  Scholarship done okay, but with a few issues in the following:
+      - citing - when possible cite peer-reviewed papers or academic books, not websites
+
+Additional Notes: 
+  You should reference your sources where they are used in the Notebook. Use [x] in the Text for this.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  I really liked the structure of your Notebook, but i think a table of contents would have been nice.
+  
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - f-string - properly used
+      - indentation - consistent and with 4 spaces
+      - line length - properly done (i.e., not longer than 110 characters)
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - isolating ideas to user-defined functions
+
+Negative:
+•  Your user-defined functions had the following problems:
+      - docstring - none provided for specifying context and usage
+      - internal checks - none provided (e.g., 'if not isinstance')
+      - type hinting - none provided
+
+Additional Notes: 
+  You didn't use docstrings to explain what your functions do. You also didn't check if the User passed the right type nor did you typehint.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good
+
+Additional Notes: 
+  Your notebook was ok, but id rather have seen you using a list to read all distances from and printing their corresponding energies with a loop. (You can use the zip function for that). 
+
+
+ Assignment Specific Feedback 
+
+
+Significant Figures:
+
+Positive:
+•  The significant figures for your final numeric value(s) was:
+      - correct - good job!

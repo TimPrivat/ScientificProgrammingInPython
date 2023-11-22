@@ -1,0 +1,85 @@
+Evaluation:  General Feedback 
+
+
+Following Instructions:
+
+Negative:
+•  The instructions were not followed, which includes:
+      - name - not included at the top of the solution
+
+Additional Notes: 
+  You did write your actual Name, but you need to give your SciProID
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Negative:
+•  No citation of information sources:
+      - As a university student, you should be citing sources of knowledge. This is something that you will need to do for your thesis.
+
+Additional Notes: 
+  All Terms were explained clearly, but you did not have any sources to back up your knowledge.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  Commendable Notebookstructure. Everything is very clear and pleasent to read :)
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and with 4 spaces
+      - line length - properly done (i.e., not longer than 110 characters)
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Negative:
+•  The following format issues were present in your code:
+      - f-string - not used (e.g., print statements)
+
+Additional Notes: 
+  Very clean code, but you did not use f-String
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+Additional Notes: 
+  You did very good on this assignment, but unfortunately you failed to include sources for your claims and did not use f-String to print your results.
+
+Grading table: 
+
+                     Criteria |   Points Awarded |   Weighting Factor |   Percentage Awarded
+--------------------------------------------------------------------------------------------
+     1. Code quality & design |              6.0 |                  4 |               24.0 %
+  2. Code execution & results |              6.0 |                  4 |               24.0 %
+   3. Assignment requirements |              6.0 |                  4 |               24.0 %
+    4. Scientific programming |              6.0 |                  4 |               24.0 %
+                5. Creativity |              4.0 |                  1 |                4.0 %
+--------------------------------------------------------------------------------------------
+     Total Percentage Awarded |                - |                  - |                100 %
+            Final Note (Mark) |                - |                  - |             1.0 (A+)

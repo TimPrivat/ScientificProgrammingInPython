@@ -1,0 +1,67 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Additional Notes: 
+  All sources were clearly listed and referenced. Your sentences were also clear and concise.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  Your Notebook was structured very well but, you could have used a little more spacing to make it more readable.
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and with 4 spaces
+      - line length - properly done (i.e., not longer than 110 characters)
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Additional Notes: 
+  Nothing more to add :)
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - excellent
+
+Grading table: 
+
+                     Criteria |   Points Awarded |   Weighting Factor |   Percentage Awarded
+--------------------------------------------------------------------------------------------
+     1. Code quality & design |              6.0 |                  4 |               24.0 %
+  2. Code execution & results |              6.0 |                  4 |               24.0 %
+   3. Assignment requirements |              6.0 |                  4 |               24.0 %
+    4. Scientific programming |              6.0 |                  4 |               24.0 %
+                5. Creativity |              4.0 |                  1 |                4.0 %
+--------------------------------------------------------------------------------------------
+     Total Percentage Awarded |                - |                  - |                100 %
+            Final Note (Mark) |                - |                  - |             1.0 (A+)

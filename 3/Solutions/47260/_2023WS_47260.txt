@@ -1,0 +1,75 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and with 4 spaces
+      - line length - properly done (i.e., not longer than 110 characters)
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - defining input objects
+      - docstring - defining returned object(s)
+      - isolating ideas to user-defined functions
+      - optional parameters - nice idea to include them
+      - type hinting
+
+Negative:
+•  Your user-defined functions had the following problems:
+      - internal checks - none provided (e.g., 'if not isinstance')
+
+Additional Notes: 
+  You should have checked if the user passed the right type to your functions.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - excellent
+
+Additional Notes: 
+  You really did a very good job :)
+  Just make sure to typecheck your functions.
+
+
+ Assignment Specific Feedback 
+
+
+Significant Figures:
+
+Positive:
+•  The significant figures for your final numeric value(s) was:
+      - correct - good job!
