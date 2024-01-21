@@ -1,0 +1,112 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Neutral:
+•  Scholarship done okay, but with a few issues in the following:
+      - references - inconsistent formatting
+•  Writing and communication done okay, but with a few issues in the following:
+      - sentences - unclear
+
+Negative:
+•  Scholarship done poorly, which includes the following:
+      - references - missing important information - for example, this might include title, year, author(s), publication source, accessed date
+      - units - were not provided when needed
+•  Writing and communication done poorly, which includes the following:
+      - communication - create your own context description (e.g., do not copy it from the assignment)
+      - communication - no or very little presentation of thoughts or ideas (e.g., context, solution meaning, decisions made)
+      - context - poorly provided (e.g., background info, the problem)
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+
+Negative:
+•  Notebook was poorly done,  which includes the following:
+      - cell structure - significant work is needed to better separate the ideas, tasks, subtasks, or thoughts
+      - markdown cells - there are significant issue concerning the formatting of markdown cells (e.g., header, tables, font)
+      - markdown cells - a significant lack of good, informative communication was seen in your solution
+
+Additional Notes: 
+  You should describe in markdowncells what you are doing
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and with 4 spaces
+      - line length - properly done (i.e., not longer than 110 characters)
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Additional Notes: 
+  You can reference variables in f-Strings using {variableName}
+
+
+User-defined Functions:
+
+Negative:
+•  Your user-defined functions had the following problems:
+      - docstring - none provided for specifying context and usage
+      - docstring - no statement about what the function does
+      - docstring - no statement about what the input variables are
+      - docstring - no statement about what the function returns
+      - internal checks - none provided (e.g., 'if not isinstance')
+      - main code - should be nested under the 'else' statement of the internal checking
+      - type hinting - none provided
+
+
+General Feedback:
+
+Neutral:
+•  Overall, your work done on this assignment was:
+      - okay  - there is notable room for improvement
+
+Negative:
+•  The following were problems with your solutions:
+      - ID - please provide your ID in a markdown cell at the notebook's top
+      - data in context - there was no attempt in placing the computed data into context (e.g., a sentence)
+
+Additional Notes: 
+  You should comment your code using markdowncells and use docstrings to explain what a function does
+
+
+ Assignment Specific Feedback 
+
+
+NumPy Library:
+
+Positive:
+•  The following points were well done:
+      - List function: using a list for the simulated values
+      - NumPy function: using ndarrays for the simulated values
+      - Both functions: correctly done
+      - List function: correctly done
+      - NumPy function: correctly done
+      - Both functions: good performance
+      - List function: good performance
+      - NumPy function: good performance
+
+Negative:
+•  Your NumPy function does not make use of::
+      - np.add
+      - np.subtract
+      - np.multiply

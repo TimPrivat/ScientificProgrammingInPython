@@ -1,0 +1,103 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Neutral:
+•  Scholarship done okay, but with a few issues in the following:
+      - citing - websites should include the date visited (e.g., Wikipedia)
+      - references - inconsistent formatting
+•  Interpretation of results and data:
+      - One should attempt to interpret the data (e.g., results, plots) that are generated. Please do this next time.
+      - A bit more interpretation of the results would have been good.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - f-string - properly used
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and with 4 spaces
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Negative:
+•  The following format issues were present in your code:
+      - imports - not alphabetized
+      - line length - too long (i.e., longer than 110 characters)
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - defining input objects
+      - docstring - defining returned object(s)
+      - internal check - for example, 'if not isinstance', 'raise' statement
+      - type hinting
+
+Neutral:
+•  Okay user-defined function(s), but the following could be improved:
+      - complex - a bit too many ideas placed into a single function
+
+
+General Feedback:
+
+Negative:
+•  The following were problems with your solutions:
+      - execution - code does not run because of the following problem(s):
+          Cell2: You call df_experiment.head() although df_experiment is not initialized yet
+          Cell4 & 5:  read again how to do typechecks...
+          Cell6: in the lamda you call loss_with_numpy which is not defined you should have used  loss_with_numpy_arrays
+      - data in context - there was no attempt in placing the computed data into context (e.g., a sentence)
+
+Additional Notes: 
+  Your notebook has the wrong headline...
+  The majority of the Cells in your notebook didn't compile because of very avoidable mistakes
+
+
+ Assignment Specific Feedback 
+
+
+NumPy Library:
+
+Positive:
+•  The following points were well done:
+      - List function: using a list for the simulated values
+      - NumPy function: using ndarrays for the simulated values
+
+Neutral:
+•  The following points would improve your NumPy solution slightly:
+      - Pandas: cleaning data (i.e., remove empty cells and duplicated data) is generally a good idea
+
+Negative:
+•  The computed loss function value was incorrect:
+      - List function: incorrect
+      - NumPy function: incorrect
+•  Your NumPy function does not make use of::
+      - np.add
+      - np.subtract
+      - np.multiply
